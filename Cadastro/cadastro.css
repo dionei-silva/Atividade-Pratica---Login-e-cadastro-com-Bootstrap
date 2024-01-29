@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: blueviolet;
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat;
+}
+.toast-position {
+  position: fixed;
+  right: 40px;
+  top: 20px;
+}
+
+button {
+  width: 100px;
+}
